@@ -1,22 +1,18 @@
 {
-  "name": "react-native-transformable-image",
-  "version": "0.0.18",
+  "name": "@applicaster/react-native-transformable-image",
+  "version": "0.0.19",
   "description": "",
   "main": "library/TransformableImage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ldn0x7dc/react-native-transformable-image.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ldn0x7dc/react-native-transformable-image/issues"
-  },
-  "homepage": "https://github.com/ldn0x7dc/react-native-transformable-image#readme",
   "dependencies": {
-    "react-native-view-transformer": "0.0.28"
+    "prop-types": "^15.5.10",
+    "@applicaster/react-native-view-transformer": "0.0.29"
   }
 }

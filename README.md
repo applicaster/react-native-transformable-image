@@ -1,3 +1,9 @@
+## NOTES
+This Fork fixes the PropTypes dependency issue that is still not fixed in the author's repository. Using this until it is fixed.
+
+You can track the PR and Issue here:
+https://github.com/ldn0x7dc/react-native-transformable-image/issues/29
+
 # react-native-transformable-image
 
 A pure JavaScript written transformable image component, like PhotoView or ImageViewer, supports gestures like pan, pinch, double tab and fling, works with both iOS and Android.
